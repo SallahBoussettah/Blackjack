@@ -4,7 +4,7 @@ A Java implementation of the classic BlackJack card game with a graphical user i
 
 ## Game Demo
 
-![BlackJack Game Demo](assets/image.png)
+![BlackJack Game Demo](image.png)
 
 ## Features
 
